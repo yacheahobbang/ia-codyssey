@@ -25,6 +25,7 @@
 폴더 이동             cd 폴더명           폴더 삭제               rm -rf 폴더명
 파일 복사             cp 원본 복사본
 폴더 복사             cp -r 원본 복사본
+<img width="1600" height="1397" alt="Image" src="https://github.com/user-attachments/assets/3242ee10-0434-493d-9f2f-11f67bfda47b" />
 
 **권한 확인 및 변경 증거**
 * 권한 변경 전: `(로그 또는 스크린샷 추가)`
