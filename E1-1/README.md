@@ -28,9 +28,7 @@
 <img width="1600" height="1397" alt="Image" src="https://github.com/user-attachments/assets/3242ee10-0434-493d-9f2f-11f67bfda47b" />
 
 **권한 확인 및 변경 증거**
-* 권한 변경 전: <img width="1044" height="226" alt="Image" src="https://github.com/user-attachments/assets/845c7726-d0db-4527-ab92-50cb7e8e9afc" />
-* 권한 변경 후: <img width="1044" height="226" alt="Image" src="https://github.com/user-attachments/assets/d5c28e7a-1f03-4751-9e87-9d8b85f1bc9b" />
-
+<img width="540" height="136" alt="Image" src="https://github.com/user-attachments/assets/ae915c9c-cd5e-4699-ad2d-84e6be4b4202" />
 > **학습 내용:** 777은 소유자, 그룹, 기타 사용자 모두에게 읽기/쓰기, 실행 권한을 줌. 700은 소유자에게만 모든 권한을 줌.
 
 ### 4.2 Docker 운영 및 검증
