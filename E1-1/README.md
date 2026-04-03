@@ -35,9 +35,8 @@
 
 ### 4.2 Docker 운영 및 검증
 * 설치 점검 결과 (`docker info` 등):
-  ```bash
-  (여기에 터미널 실행 결과 복사)
-  ```
+  <img width="1132" height="1362" alt="Image" src="https://github.com/user-attachments/assets/a10d754b-9583-4c50-82ed-8b55560185bd" />
+<img width="1148" height="438" alt="Image" src="https://github.com/user-attachments/assets/4e5c64b0-154d-4c06-9907-060270e7adfb" />
 
 ### 4.3 Dockerfile 기반 웹 서버 컨테이너 및 포트 매핑
 * **소스코드 생성 및 Dockerfile 빌드:**
@@ -50,7 +49,7 @@
   EOF
   ```
 * **포트 매핑 접속 증거:**
-  *(브라우저 접속 화면 스크린샷 이미지 첨부)*
+  <img width="1448" height="638" alt="Image" src="https://github.com/user-attachments/assets/0d40c074-f57e-4973-91a7-acb72c06a94c" />
 
 ### 4.4 바인드 마운트 반영 및 볼륨 영속성 검증
 * **바인드 마운트 검증:**
