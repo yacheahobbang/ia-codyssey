@@ -53,6 +53,8 @@
 
 ### 4.4 바인드 마운트 반영 및 볼륨 영속성 검증
 * **바인드 마운트 검증:**
+* <img width="1600" height="384" alt="Image" src="https://github.com/user-attachments/assets/fa8a77c6-7bb6-4f48-9143-7bcfa46eb723" />
+
   ```bash
   docker run -d -p 8080:80 --name my_bind_web -v $(pwd)/app:/usr/share/nginx/html nginx
   ```
@@ -66,4 +68,10 @@
   docker rm -f vol_test_container
   docker run --rm -v my_safe_volume:/data alpine cat /data/secret.txt
   ```
+  <img width="1600" height="377" alt="Image" src="https://github.com/user-attachments/assets/f8a5d437-3c35-4103-b6ad-2751bee62cf2" />
+
   > 컨테이너를 삭제해도 볼륨 내의 데이터는 사라지지 않는다는 것을 확인했습니다.
+
+* **Git 설정 및 GitHub/VScode 연동 증거:**
+  <img width="626" height="154" alt="Image" src="https://github.com/user-attachments/assets/04e317cd-aea0-433f-9a1c-7be98c91c23c" />
+<img width="1600" height="1134" alt="Image" src="https://github.com/user-attachments/assets/d96b5e07-f111-4816-bc7b-08dda35c1456" />
