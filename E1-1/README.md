@@ -47,6 +47,7 @@
   COPY app/ /usr/share/nginx/html/
   EOF
   ```
+  <img width="1024" height="791" alt="Image" src="https://github.com/user-attachments/assets/c260cb6f-c89a-4a8d-bd7b-537746b87353" />
 * **포트 매핑 접속 증거:**
   <img width="1448" height="638" alt="Image" src="https://github.com/user-attachments/assets/0d40c074-f57e-4973-91a7-acb72c06a94c" />
 
